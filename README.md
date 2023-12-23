@@ -12,3 +12,4 @@ Hallo saya adalah seorang junior frontend.. developer, yang sekarang sedang mene
 * ✉️  You can contact me at [ryanhzashari13@gmail.com](mailto:ryanhzashari13@gmail.com)
 * 🧠  I'm learning PHP,mysql
 <figure><embed src="https://wakatime.com/share/@RYANNNHZ/0ff8658d-cf9b-44fa-9458-a725ec478f95.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@RYANNNHZ/a4ce1ffe-e446-4874-95e4-0ac310f4b744.svg"></embed></figure>
