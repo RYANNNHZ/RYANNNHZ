@@ -28,3 +28,7 @@ mencoba mempelajari backend wish me luck...
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@RYANNNHZ/ba20eabd-78ed-4771-a6b7-d7c445967d0c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@RYANNNHZ/3612e2e3-2c4c-4938-9174-bdd3dcf5e093.png" /></a>
+<a href="https://wakatime.com"><img src="[https://wakatime.com/share/@RYANNNHZ/3612e2e3-2c4c-4938-9174-bdd3dcf5e093.png](https://wakatime.com/share/@RYANNNHZ/7a33c2e2-558c-4d37-8cc8-71846afeef9e.png)https://wakatime.com/share/@RYANNNHZ/7a33c2e2-558c-4d37-8cc8-71846afeef9e.png" /></a>
+
+
