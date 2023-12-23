@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 <h3 align="center">beginner backend developer</h3>
 
-<table>
+
 Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan backend development, sekarang saya sedang 
-mencoba mempelajari backend wish me luck...</table>
+mencoba mempelajari backend wish me luck...
 
 - 🌱 I’m currently learning **laravel**
 
