@@ -2,6 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
+
+![Deskripsi Gambar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.picmix.com%2Fstamp%2FBlue-Lock-2498481&psig=AOvVaw0v1EbxsNneAEMsBzwiFeq_&ust=1703445503687000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCi6ZSjpoMDFQAAAAAdAAAAABAD)
+
 <h3 align="center">beginner backend developer</h3>
 
 ##
