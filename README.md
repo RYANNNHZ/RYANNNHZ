@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 
-<img src="upload-image-BLGJKP0-J8WCNE5-IDPJIAA-DAM3364.png" alt="html5" width="200" align="center"/>
+<img src="upload-image-BLGJKP0-J8WCNE5-IDPJIAA-DAM3364.png" alt="html5" width="250" align="center"/>
 
 <h3 align="center">beginner backend developer</h3>
 
