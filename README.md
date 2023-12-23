@@ -5,7 +5,7 @@
 <h3 align="center">beginner backend developer</h3>
 
 <img src="upload-image-BLGJKP0-J8WCNE5-IDPJIAA-DAM3364.png" alt="html5" width="300" align="center"/>
-<p align="center">im sayko because IM Ryan ,im Ryan because im sayko✨</p>
+<p align="center">im the best because im Ryan ,im Ryan because im the best✨</p>
 
 
 
