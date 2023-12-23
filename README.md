@@ -31,8 +31,7 @@ mencoba mempelajari backend wish me luck...
 <tr>
 <td>
 ![RYANNNHZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANNNHZ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</td>
-<td>
+
 ![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </td>
 </tr>
