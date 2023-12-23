@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 
-![image.png]( {https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaxel.co%2Fid%2Fberita-dan-promo%2F5-karakter-anime-simpel-untuk-ide-cosplay-anti-ribet&psig=AOvVaw0ouf7yD6vGr1C-3fEwR8wk&ust=1703446094084000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiam6-lpoMDFQAAAAAdAAAAABAD} )
+![image.png]( {upload-image-BLGJKP0-J8WCNE5-IDPJIAA-DAM3364.png} )
 
 <h3 align="center">beginner backend developer</h3>
 
