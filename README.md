@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 
-![Deskripsi Gambar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.picmix.com%2Fstamp%2FBlue-Lock-2498481&psig=AOvVaw0v1EbxsNneAEMsBzwiFeq_&ust=1703445503687000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCi6ZSjpoMDFQAAAAAdAAAAABAD)
+![Deskripsi Gambar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBlueLock%2Fcomments%2Fupdf5u%2Fchibi_blue_lock_characters_background_removed%2F&psig=AOvVaw0v1EbxsNneAEMsBzwiFeq_&ust=1703445503687000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCqy9OjpoMDFQAAAAAdAAAAABAI)
 
 <h3 align="center">beginner backend developer</h3>
 
