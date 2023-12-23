@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋 
 
-Hi 👋 My name is Adrian Hamzah Ashari
+My name is Adrian Hamzah
 =====================================
 
 Frontend developer
