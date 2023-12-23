@@ -13,7 +13,7 @@ Hallo saya adalah seorang junior frontend.. developer, yang sekarang sedang mene
 * 🧠  I'm learning PHP,mysql
 <p align="center">
   <img
-    src="https://socialify.git.ci/athul/waka-readme/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
+    src="[https://socialify.git.ci/athul/waka-readme/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto](https://wakatime.com/share/@RYANNNHZ/a4ce1ffe-e446-4874-95e4-0ac310f4b744.svg)"
     alt="waka-readme"
     width="640"
     height="320"
