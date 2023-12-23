@@ -9,7 +9,7 @@ mencoba mempelajari backend wish me luck...
 
 - 🌱 I’m currently learning **laravel**
 
-- * 🌍  I'm based in KARAWANG
+-  🌍  I'm based in KARAWANG
 
 - 💬 Ask me about **laravel**
 
