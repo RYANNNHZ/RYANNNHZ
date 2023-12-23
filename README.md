@@ -35,3 +35,24 @@ mencoba mempelajari backend wish me luck...
 ![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
+# Nama Proyek
+
+Deskripsi proyek Anda di sini.
+
+## Daftar Isi
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+
+## Instalasi
+Tunjukkan cara menginstal proyek Anda.
+
+## Penggunaan
+Bagikan cara penggunaan proyek.
+
+## Kontribusi
+Berikan informasi tentang cara berkontribusi pada proyek.
+
+## Lisensi
+Tentukan jenis lisensi proyek Anda.
