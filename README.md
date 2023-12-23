@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 <h3 align="center">beginner backend developer</h3>
 
-Hallo saya adalah seorang junior frontend.. developer, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan frontend development karena saya lebih suka memanipulasi UI daripada memanipulasi data sesimpel itu sih tapi sekarang saya sedang 
+Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan backend development, sekarang saya sedang 
 mencoba mempelajari backend wish me luck...
 
 - 🌱 I’m currently learning **laravel**
