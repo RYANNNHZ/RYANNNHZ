@@ -41,7 +41,7 @@ mencoba mempelajari backend wish me luck...
 
 ![Info](https://img.shields.io/badge/Info-Junior-FD4F31?labelColor=Gray&style=flat&logo=laravel )
 ![Info](https://img.shields.io/badge/Info-Junior-7952B3?labelColor=Gray&style=flat&logo=Bootstrap )
-![Info](https://img.shields.io/badge/Info-Advanced-FD4F31?labelColor=Gray&style=flat&logo=Html5)![Info](https://img.shields.io/badge/Info-Intermediate-1572B6?labelColor=Gray&style=flat&logo=Css3)
+![Info](https://img.shields.io/badge/Info-Advanced-FD4F31?labelColor=Gray&style=flat&logo=Html5)![Info](https://img.shields.io/badge/Info-Intermediate-1572B6?labelColor=Gray&style=flat&logo=Css3)![Info](https://img.shields.io/badge/Info-Junior-6181B6?labelColor=Gray&style=flat&logo=Php)
 
 
 
