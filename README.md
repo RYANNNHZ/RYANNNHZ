@@ -6,7 +6,7 @@
 <img src="upload-image-BLGJKP0-J8WCNE5-IDPJIAA-DAM3364.png" alt="html5" width="300" align="center"/>
 <p align="center">im the best because im Ryan ,im Ryan because im the best✨</p>
 
-
+##
 
 ![🧏ABOUT ME](https://img.shields.io/badge/%F0%9F%A7%8FABOUT%20ME-61DAFB?style=for-the-badge)
 
@@ -26,7 +26,7 @@ mencoba mempelajari backend wish me luck...
 - ⚡ Fun fact **im an anime**
 
 
-<h3 align="left">🔗Connect with me:</h3>
+![🖇️ CONNECT WITH ME](https://img.shields.io/badge/%F0%9F%96%87%EF%B8%8F%20CONNECT%20WITH%20ME-61DAFB?style=for-the-badge)
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/adrian-hamzah-ashari-43bb48261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adrian-hamzah-ashari-43bb48261" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/driiiiiaaaaaannnnnnnn/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/driiiiiaaaaaannnnnnnn/?next=%2f" height="30" width="40" /></a>
