@@ -14,6 +14,9 @@
 █▄▀ █▀▀ █▄░█ ▄▀█ █░░ ▄▀█ █▄░█
 █░█ ██▄ █░▀█ █▀█ █▄▄ █▀█ █░▀█
 
+█▄█ █░█ █▄▀
+░█░ █▄█ █░█
+
 ![🧏ABOUT ME](https://img.shields.io/badge/%F0%9F%A7%8FABOUT%20ME-61DAFB?style=for-the-badge)
 
 Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan backend development, sekarang saya sedang 
