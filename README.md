@@ -15,8 +15,7 @@ mencoba mempelajari backend wish me luck...
 
 |<h3 align="left">📝my info:</h3>|
 |-----------|
-|
-- 🌱 I’m currently learning **laravel**
+|- 🌱 I’m currently learning **laravel**
 
 -  🌍  I'm based in KARAWANG
 
