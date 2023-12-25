@@ -13,8 +13,8 @@
 Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan backend development, sekarang saya sedang 
 mencoba mempelajari backend wish me luck...
 
-
-<h3 align="left">📝my info:</h3>
+|-----------|
+|<h3 align="left">📝my info:</h3>
 
 - 🌱 I’m currently learning **laravel**
 
@@ -24,7 +24,7 @@ mencoba mempelajari backend wish me luck...
 
 - 📫 How to reach me **ryanhzashari13@gmail.com**
 
-- ⚡ Fun fact **im an anime**
+- ⚡ Fun fact **im an anime**|
 
 
 
