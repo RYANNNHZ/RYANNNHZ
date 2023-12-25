@@ -1,5 +1,4 @@
-<h3>![Info](https://img.shields.io/badge/Info-61DAFB?style=flat)</h3>
-
+![Info](https://img.shields.io/badge/Info-61DAFB?style=for-the-badge)
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 <h3 align="center">beginner backend developer</h3>
