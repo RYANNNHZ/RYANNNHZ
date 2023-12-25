@@ -1,4 +1,4 @@
-![Info](https://img.shields.io/badge/Info-61DAFB?style=flat)
+<h3>![Info](https://img.shields.io/badge/Info-61DAFB?style=flat)</h3>
 
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
