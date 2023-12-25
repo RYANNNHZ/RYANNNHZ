@@ -38,7 +38,7 @@ mencoba mempelajari backend wish me luck...
 ![💻 Language and tools](https://img.shields.io/badge/%F0%9F%92%BB%20Language%20and%20tools-61DAFB?style=for-the-badge)
 
 
-![Info](https://img.shields.io/badge/Info-Advanced-61DAFB?labelColor=Gray&style=flat&logo=Html5&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Intermediate-61DAFB?labelColor=Gray&style=flat&logo=Css3&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=bootstrap&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=Git&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=Mysql&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=Php&logoColor=61DAFB)
+![Info](https://img.shields.io/badge/Info-Advanced-61DAFB?labelColor=Gray&style=flat&logo=Html5&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Intermediate-61DAFB?labelColor=Gray&style=flat&logo=Css3&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=bootstrap&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=Git&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=Mysql&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=Php&logoColor=61DAFB)![Info](https://img.shields.io/badge/Info-Junior-61DAFB?labelColor=Gray&style=flat&logo=laravel&logoColor=61DAFB)
 
 
 
