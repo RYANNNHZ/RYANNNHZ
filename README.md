@@ -51,6 +51,3 @@ mencoba mempelajari backend wish me luck...
    ![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
-##
-
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
