@@ -14,7 +14,7 @@ Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempu
 mencoba mempelajari backend wish me luck...
 
 
-
+![📝MY INFO](https://img.shields.io/badge/%F0%9F%93%9DMY%20INFO-61DAFB?style=for-the-badge)
 - 🌱 I’m currently learning **laravel**
 
 -  🌍  I'm based in KARAWANG
