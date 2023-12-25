@@ -9,7 +9,7 @@
 
 
 
-<h1>🧏 About Me</h1>
+<h1 style="color: green">🧏 About Me</h1>
 Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan backend development, sekarang saya sedang 
 mencoba mempelajari backend wish me luck...
 
