@@ -14,7 +14,7 @@ Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempu
 mencoba mempelajari backend wish me luck...
 
 |<h3 align="left">📝my info:</h3>|
-|-----------|
+
 - 🌱 I’m currently learning **laravel**
 
 -  🌍  I'm based in KARAWANG
