@@ -53,3 +53,26 @@ mencoba mempelajari backend wish me luck...
 |listening to|
 |------------|
 |[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31polcjwbcwirp7kxv2yynlsqsfq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)           |
+
+
+| <h3 align="left">🔗Connect with me:</h3> |
+| --- |
+| <p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/adrian-hamzah-ashari-43bb48261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/https://www.instagram.com/driiiiiaaaaaannnnnnnn/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p> |
+
+| <h3 align="left">🔧Languages and Tools:</h3> |
+| --- |
+| <p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <!-- Add more tools and languages as needed -->
+</p> |
+
+| Top Stats |
+| --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANNNHZ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
+
+| Listening To |
+| --- |
+| [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31polcjwbcwirp7kxv2yynlsqsfq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
