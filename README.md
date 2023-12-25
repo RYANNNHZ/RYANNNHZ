@@ -23,7 +23,8 @@ mencoba mempelajari backend wish me luck...
 
 - 📫 How to reach me **ryanhzashari13@gmail.com**
 
-- ⚡ Fun fact **im an anime**|
+- ⚡ Fun fact **im an anime**
+|
 
 
 
