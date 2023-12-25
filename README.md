@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm adrian hamzah</h1>
 <h3 align="center">beginner backend developer</h3>
+
 [![Info](https://badge.ttsalpha.com/api?icon=laravel&label=Info&status=Junior &color=61DAFB)](https://example.com)
 
 <img src="upload-image-BLGJKP0-J8WCNE5-IDPJIAA-DAM3364.png" alt="html5" width="300" align="center"/>
