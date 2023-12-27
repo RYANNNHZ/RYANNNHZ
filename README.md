@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, im Adrian Hamzah </h1>
-<h3 align="center">beginner backend developer</h3>
+<h3 align="center">beginner web developer</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 ![🧏ABOUT ME](https://img.shields.io/badge/%F0%9F%A7%8FABOUT%20ME-61DAFB?style=for-the-badge)
 
-Hallo saya adalah seorang backend developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan backend development, sekarang saya sedang 
+Hallo saya adalah seorang web developer pemula, yang sekarang sedang menempuh pendidikan di SMK TI MUHAMMADIYAH 1 CIKAMPEK.. jurusan (rekayasa perangkat lunak) saya tertarik dengan web development, sekarang saya sedang 
 mencoba mempelajari backend wish me luck...
 
 
