@@ -47,7 +47,7 @@ mencoba mempelajari backend wish me luck...
 
 | <h3>📊Top stats.</h3>   |
 |--------------|
-|![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&count_private=true)![RYANNNHZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RYANNNHZ&theme=react&hide_border=true)![RYANNNHZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&layout=compact)
+|![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&count_private=true)![RYANNNHZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RYANNNHZ&theme=react&hide_border=true)![RYANNNHZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&layout=compact)<a href="https://wakatime.com"><img src="https://wakatime.com/share/@RYANNNHZ/53fb9524-407b-414f-8639-49e29db93393.png" /></a>
 
 
 
