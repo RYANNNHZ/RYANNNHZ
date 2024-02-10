@@ -7,28 +7,13 @@
 
 ##
 <h2>bout me🧑‍🏫</h2>
-hello my name is Adrian Hamzah 👋 I have done fieldwork practice in the software engineering lab of muhamadiyah 1 Cikampek vocational high school and now I am continuing my studies as a student at a vocational high school. In the future I am open to doing some projects and cooperation together. 
-
-
 
 ```php
 #!/usr/bin/php
 # -*- coding: utf-8 -*-
 
+hello my name is Adrian Hamzah 👋 I have done fieldwork practice in the software engineering lab of muhamadiyah 1 Cikampek vocational high school and now I am continuing my studies as a student at a vocational high school. In the future I am open to doing some projects and cooperation together. 
 
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
 ```
 
 
