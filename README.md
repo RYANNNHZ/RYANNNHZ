@@ -4,6 +4,8 @@
 ![RYANNNHZ Banner Image](adrian.png)
 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 |<h3>🎧listening to</h3>|
 |------------|
