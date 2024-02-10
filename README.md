@@ -18,8 +18,6 @@ fieldwork practice in the software engineering
 
 ```
 
-![RYANNNHZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ &show_icons=true&theme=radical)
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
