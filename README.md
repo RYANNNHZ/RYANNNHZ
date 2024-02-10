@@ -4,10 +4,6 @@
 
 ![RYANNNHZ Banner Image](adrian.png)
 
-
-##
-<h2>bout me🧑‍🏫</h2>
-
 ```php
 #!/usr/bin/php
 # -*- coding: utf-8 -*-
