@@ -18,7 +18,6 @@ fieldwork practice in the software engineering
 
 ```
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
