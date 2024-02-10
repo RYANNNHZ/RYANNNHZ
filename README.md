@@ -1,5 +1,5 @@
 <h2>hi bro👋🏻</h2>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![RYANNNHZ Banner Image](adrian.png)
 
