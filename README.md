@@ -20,8 +20,6 @@ fieldwork practice in the software engineering
 
 ![RYANNNHZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&show_icons=true&bg_color=00000000)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RYANNNHZ)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
