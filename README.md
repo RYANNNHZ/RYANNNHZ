@@ -26,3 +26,10 @@ fieldwork practice in the software engineering
 
 
 <a href="mailto: ryanhzashari13@gmail.com">![ryanhzashari13@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/adrian-hamzah-43bb48261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+  <div class="display:flex; justify-content:center;">
+    
+    <a href="mailto: ryanhzashari13@gmail.com">![ryanhzashari13@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/adrian-hamzah-43bb48261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+    
+  </div>
