@@ -1,5 +1,5 @@
 <div align="center">
-  ## Skills
+  <h1>skills<h1/>
 </div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
