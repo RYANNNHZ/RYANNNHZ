@@ -1,5 +1,4 @@
-
-<div align="center" style="font-family: Arial, sans-serif;">
+<div align="center" style="font-family: 'Poppins', sans-serif;">
   <h1>skills</h1>
 </div>
 
