@@ -2,6 +2,7 @@
   <h1>about me🧑🏻‍💻</h1>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Im+fullstack+laravel+developer+)](https://git.io/typing-svg)
 Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 17-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering, where I am deeply passionate about IT and programming 🛠️.
 
 - 💻 I specialize in backend development and RESTful APIs.
