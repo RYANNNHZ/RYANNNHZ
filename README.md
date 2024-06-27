@@ -18,5 +18,5 @@
 ![npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Composer](https://img.shields.io/badge/Composer-white?style=for-the-badge&logo=composer&logoColor=885630)
 ![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
 
