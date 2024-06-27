@@ -6,7 +6,6 @@
 ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-white?style=for-the-badge&logo=react-bootstrap&logoColor=7952B3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST_API-white?style=for-the-badge&logo=rest-api&logoColor=000000)
 ![Axios](https://img.shields.io/badge/Axios-white?style=for-the-badge&logo=axios&logoColor=5A29E4)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=FF2D20)
