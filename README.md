@@ -1,4 +1,6 @@
-## About Me
+<div align="center" style="font-family: 'Poppins', sans-serif;">
+  <h1>about me🧑🏻‍💻</h1>
+</div>
 
 Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 17-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering, where I am deeply passionate about IT and programming 🛠️.
 
@@ -14,7 +16,7 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 
 
 <div align="center" style="font-family: 'Poppins', sans-serif;">
-  <h1>skills</h1>
+  <h1>skills🛠️</h1>
 </div>
 
 
