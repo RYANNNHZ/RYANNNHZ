@@ -20,7 +20,7 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 
 #
 <div align="center" style="font-family: 'Poppins', sans-serif;">
-  <h1>skills🛠️</h1>
+  <h1>skills&tools🛠️</h1>
 </div>
 
 
