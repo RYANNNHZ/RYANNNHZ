@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>skills<h1/>
+  <h1>skills</h1>
 </div>
-
+<div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
@@ -21,4 +21,4 @@
 ![Composer](https://img.shields.io/badge/Composer-white?style=for-the-badge&logo=composer&logoColor=885630)
 ![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
-
+</div>
