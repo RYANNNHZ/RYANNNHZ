@@ -8,7 +8,8 @@
 
 Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 17-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering, where I am deeply passionate about IT and programming 🛠️.
 
-- 💻 I specialize in backend development and RESTful APIs.
+- 💻 I specialize in backend development and RESTful APIs with laravel.
+- 🚀 I specialize in frontend development and user interface with react.
 - 🌐 I enjoy creating CMS solutions using WordPress.
 - 📈 I have a keen interest in digital marketing and integrating technology with marketing strategies.
 
