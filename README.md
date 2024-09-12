@@ -50,3 +50,5 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 <hr>
 
 ![RYANNNHZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&count_private=true)
