@@ -4,7 +4,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Im+fullstack+laravel+developer+)](https://git.io/typing-svg)
-
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" /><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
 
 Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 17-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering, where I am deeply passionate about IT and programming 🛠️.
 
