@@ -39,7 +39,7 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717)
-![Lubuntu](https://img.shields.io/badge/Lubuntu-white?style=for-the-badge&logo=lubuntu&logoColor=006699)![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=87CF3E)
+![Lubuntu](https://img.shields.io/badge/Lubuntu-white?style=for-the-badge&logo=lubuntu&logoColor=006699)![Linux Mint](https://img.shields.io/badge/Linux%20Mint-white?style=for-the-badge&logo=Linux%20Mint&logoColor=87CF3E)
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837)
