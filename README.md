@@ -45,7 +45,7 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 ![npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Composer](https://img.shields.io/badge/Composer-white?style=for-the-badge&logo=composer&logoColor=885630)
 ![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
+![windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
 ![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![livewire](https://img.shields.io/badge/livewire-white?style=for-the-badge&logo=livewire&logoColor=ff7be7)
 <hr>
