@@ -2,7 +2,7 @@
 <div align="center" style="font-family: 'Poppins', sans-serif;">
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
 
-  <h1>about me🧑🏻‍💻</h1>
+  <h1>RYANNNHZ 🛸</h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Im+fullstack+laravel+developer+)](https://git.io/typing-svg)
