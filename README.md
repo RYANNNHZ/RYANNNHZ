@@ -10,12 +10,11 @@
 
 Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 17-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering, where I am deeply passionate about IT and programming 🛠️.
 
-- 💻 I specialize in backend development and RESTful APIs with laravel.
-- 🚀 I specialize in frontend development and user interface with react.
-- 🌐 I enjoy creating CMS solutions using WordPress.
-- 📈 I have a keen interest in digital marketing and integrating technology with marketing strategies.
+- 🔮 I specialize in fullstack development with laravel and livewire.
+- 🛸 I specialize in frontend development with react and Rest Api's.
+- 🪩 I have a keen interest in digital marketing, artificial intelligence and integrating technology with ai on marketing strategies.
 
-My skills are continuously growing as I explore the intricacies of software development. I am enthusiastic about opportunities that allow me to apply my skills and knowledge in real-world projects.
+My skills are continuously growing as I explore the intricacies of software development and artificial intelligence. I am enthusiastic about opportunities that allow me to apply my skills and knowledge in real-world projects.
 
 If you're looking for a dedicated and curious mind to join your team, let's connect!
 
