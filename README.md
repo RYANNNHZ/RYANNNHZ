@@ -27,8 +27,6 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 </div>
 
 
-![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-white?style=for-the-badge&logo=react-bootstrap&logoColor=7952B3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
