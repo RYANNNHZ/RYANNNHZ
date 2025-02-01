@@ -47,6 +47,7 @@ If you're looking for a dedicated and curious mind to join your team, let's conn
 ![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
 ![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![livewire](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=livewire&logoColor=21759B)
 <hr>
 
 ![RYANNNHZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&layout=compact)
