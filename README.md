@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Im+fullstack+laravel+developer+)](https://git.io/typing-svg)
 
 
-Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 17-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering, where I am deeply passionate about IT and programming 🛠️.
+Hello! I'm **Adrian Hamzah** 🧑🏻‍💻, a 18-year-old student currently pursuing my education at SMK TI Muhammadiyah Cikampek, one of the top vocational schools in Cikampek. My focus is on Software Engineering,digital marketing and artificial intelligence, where I am deeply passionate about IT and programming 🛠️.
 
 - 🔮 I specialize in fullstack development with laravel and livewire.
 - 🛸 I specialize in frontend development with react and Rest Api's.
