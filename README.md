@@ -24,3 +24,7 @@ CSV              2 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![RYANNNHZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RYANNNHZ&theme=react&hide_border=true)
+
+![RYANNNHZ's Stats](https://github-readme-stats.vercel.app/api?username=RYANNNHZ&theme=react&show_icons=true&hide_border=true&count_private=true)
