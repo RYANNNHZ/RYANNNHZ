@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryannnhz</h1>
 <h3 align="center">A begginer tech enthusiast who learning some technologies such as web development and data engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryannnhz&label=Profile%20views&color=0e75b6&style=flat" alt="ryannnhz" /> </p>
 
 - 💬 Ask me about **laravel, react.js**
 
