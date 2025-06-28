@@ -1,3 +1,5 @@
+![Banner Tech](RYANNNHZ_20250628_124553_0000.png)
+
 <h1 align="center">Hi 👋, I'm Ryannnhz</h1>
 <h3 align="center">A begginer tech enthusiast who learning some technologies such as web development and data engineering</h3>
 
