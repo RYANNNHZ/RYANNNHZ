@@ -2,6 +2,12 @@
 <h3 align="center">A begginer tech enthusiast who learning some technologies such as web development and data engineering</h3>
 
 
+<div align="center">
+        <img width="49.6%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=armandwipangestu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA" alt="GitHub Stream">
+        <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/?username=armandwipangestu&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
+    <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandwipangestu&count_private=true&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Top Lang">
+</div>
+
 
 <!--START_SECTION:waka-->
 
