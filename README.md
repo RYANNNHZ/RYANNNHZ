@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryannnhz</h1>
 <h3 align="center">A begginer tech enthusiast who learning some technologies such as web development and data engineering</h3>
-
-
-- 💬 Ask me about **laravel, react.js**
-
 - 📫 How to reach me **ryanhzashari13@gmail.com**
 
-- ⚡ Fun fact **i think im kind**
+
+
+
 
 <h3 align="center">
 Languages
