@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 31 December 2025
+From: 22 December 2023 - To: 03 January 2026
 
-Total Time: 97 hrs 23 mins
+Total Time: 97 hrs 24 mins
 
-PHP              37 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.16 %
-Blade Template   29 hrs 31 mins  ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+PHP              37 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.15 %
+Blade Template   29 hrs 32 mins  ███████▓░░░░░░░░░░░░░░░░░   30.32 %
 HTML             18 hrs 42 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
 JavaScript       7 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 Bash             1 hr 53 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
